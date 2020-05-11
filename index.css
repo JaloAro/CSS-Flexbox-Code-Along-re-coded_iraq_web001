@@ -27,13 +27,13 @@ footer {
   display: flex;
   width: 100vw;
   height: 100vh;
-  flex-direction: column;
+  /*flex-direction: column;*/
   
   
 }
-.item {
-  height: 100px;
-  width: 100px;
-  margin: 5px;
-  background-color: #FCF2EC;
-}
+/*.item {*/
+/*  height: 100px;*/
+/*  width: 100px;*/
+/*  margin: 5px;*/
+/*  background-color: #FCF2EC;*/
+/*}*/
